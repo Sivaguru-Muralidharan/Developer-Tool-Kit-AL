@@ -65,4 +65,5 @@ __The Following Pages will deal with specifics and advanced topics in Developmen
 __Please Skip to the next section if you are a Beginner__\
 [Previous Page](/Documentation/Development.RepositoryCloning.md)\
 [Next Page](/Documentation/Development.DependencyHandling.md)\
+[Skip Advanced Topics](/Documentation/Development.CommitCode.md)\
 [Back to Index](/Documentation/Handbook/Index.md)
