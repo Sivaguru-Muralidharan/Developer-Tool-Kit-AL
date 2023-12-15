@@ -87,7 +87,7 @@ The Code sample from 2 different branches prove that `Behavior Dependency` exist
 * When Both Branches are merged into the `main` Branch or the `Release` Branch later, they would realize that `Developer A`'s changes would break the Functionality developed by `Developer B`.
 
 ### How to Avoid this Scenario?
-Best Practice is for Both Developers to identify the Dependent Code and mutually agree to a plan like the [Code Sample](./BehaviorDependencyHandlingExample.md/#alter-code-at-the-source) Provided.
+Best Practice is for Both Developers to identify the Dependent Code During Design Phase and mutually agree to a plan like the [Code Sample](./BehaviorDependencyHandlingExample.md/#alter-code-at-the-source) Provided. This is called Impact Analysis.
 
 ### How to Identify Issue During Development?
 1. Creating a new Branch named `Test_ExtAandBDependency` and pull both `Feature_A` and `Feature_B` branch into it.
@@ -97,3 +97,7 @@ Best Practice is for Both Developers to identify the Dependent Code and mutually
 
 ### How to Fix?
 Refer the [Let Us Fix Silent Code Breakage](./BehaviorDependencyHandlingExample.md/#let-us-fix-silent-code-breakage) Section of the <B>Behavior Dependency</B> Page
+___
+[Back To Top](#behavior-dependency-special-cases)<Br>
+[Back to Index](../Index.md)<Br>
+[Previous Page](./BehaviorDependencyHandlingExample.md)
