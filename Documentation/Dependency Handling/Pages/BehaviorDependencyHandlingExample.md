@@ -117,4 +117,5 @@ codeunit 50200 "Test Codeunit"
 ___
 [Back To Top](#what-is-a-behavior)<Br>
 [Back to Index](../Index.md)<Br>
+[Next Page](./BehaviorDependencySpecialCases.md)
 [Previous Page](./DependencyHandlingExample.md)
