@@ -76,3 +76,8 @@ A formal Investigation has to be conducted before arriving at a conclusion. The 
 2. The new code would break the original purpose of the code.
 3. The new code would negatively affect performance.
 4. The new code is not as per Coding Standards Generally Followed in Business central.
+___
+[Back To Top](#introduction)<Br>
+[Back to Index](../Index.md)<Br>
+[Previous Page](./Introduction.md)<Br>
+[Next Page](./BehaviorDependencyHandlingExample.md)

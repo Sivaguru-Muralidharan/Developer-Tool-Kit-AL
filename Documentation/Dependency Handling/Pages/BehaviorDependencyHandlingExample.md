@@ -113,3 +113,8 @@ codeunit 50200 "Test Codeunit"
 
 ### Changing the Dependent Extension's Code
 >ℹ️ Note that this is a very expensive method and prone to risks such as leading to more Code Breakage. Extensive Regression testing has to be performed to prove that no Functionality is broken.
+
+___
+[Back To Top](#what-is-a-behavior)<Br>
+[Back to Index](../Index.md)<Br>
+[Previous Page](./DependencyHandlingExample.md)
