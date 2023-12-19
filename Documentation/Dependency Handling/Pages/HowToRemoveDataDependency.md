@@ -53,7 +53,7 @@ If this Dependency is established, then uninstalling Extension `A` would automat
 ## How To access Data without Dependency?
 There are 2 Ways this is Possible, 
 1. Use the [RecordRef and FieldRef](./HandleDataDependencyWithRecRef.md) Datatypes available in Business Central.
-2. Use [APIs](./HandleDataDependencyWithAPI) Internally to consume Data.
+2. Use [APIs](./HandleDataDependencyWithAPI.md) Internally to consume Data.
 
 ## Disclaimer
 ⚠️Each method has its own advantages and disadvantages. Please Analyse the Requirement and fully understand the Disadvantages of the Above mentioned methods before deciding to use them.
