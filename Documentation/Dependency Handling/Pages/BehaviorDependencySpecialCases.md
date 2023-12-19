@@ -100,4 +100,5 @@ Refer the [Let Us Fix Silent Code Breakage](./BehaviorDependencyHandlingExample.
 ___
 [Back To Top](#behavior-dependency-special-cases)<Br>
 [Back to Index](../Index.md)<Br>
-[Previous Page](./BehaviorDependencyHandlingExample.md)
+[Previous Page](./BehaviorDependencyHandlingExample.md)<Br>
+[Next Page](./HowToRemoveDataDependency.md)
