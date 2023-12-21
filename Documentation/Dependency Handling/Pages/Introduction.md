@@ -1,4 +1,5 @@
 # Introduction
+
 Business Central Version's Following AL Programming can only extend the functionalities by using Extensions.
 These Extensions are coded using AL Programming Language and are bundled into Packages with the `.app` Format
 ## What is Dependency Handling?
